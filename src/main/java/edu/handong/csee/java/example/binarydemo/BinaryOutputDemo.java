@@ -1,4 +1,4 @@
-package edu.handong.csee.java.example.binarydemo;
+ package edu.handong.csee.java.example.binarydemo;
 
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
